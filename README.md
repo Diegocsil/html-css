@@ -3,9 +3,11 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<p>
+<ul type="circle">
+<li>
 <a href="https://diegocsil.github.io/projeto-android/">Projeto android</a>
-</p>
-<p>
+</li>
+<li>
 <a href="https://diegocsil.github.io/projeto-cordel/">Projeto cordel</a>
-</p>
+</li>
+</ul>
