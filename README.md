@@ -3,4 +3,5 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://diegocsil.github.io/projeto-android/">Página android</a>
+<a href="https://diegocsil.github.io/projeto-android/">Projeto android</a>
+<a href="https://diegocsil.github.io/projeto-cordel/">Projeto cordel</a>
