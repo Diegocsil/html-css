@@ -13,16 +13,19 @@
 
         table{
             width: 400px;
+            height: 400px;
             border-collapse: collapse;
-        }
-
-        tr{
-            
         }
 
         td{
             border: 1px solid black;
             padding: 8px;
+            text-align: center;/*alinhamento horizontal*/
+            vertical-align: middle;/*alinhamento vertical*/
+        }
+
+        .numero{
+            text-align: right;
         }
     </style>
 </head>
@@ -34,21 +37,21 @@
             <td>b1</td>
             <td>c1</td>
         </tr>
-         <tr>
-            <td>a2</td>
-            <td>b2</td>
-            <td>c2</td>
-         </tr>
-         <tr>
-            <td>a3</td>
-            <td>b3</td>
-            <td>c3</td>
-         </tr>
-         <tr>
-            <td>a4</td>
-            <td>b4</td>
-            <td>c4</td>
-         </tr>
+        <tr>
+           <td>a2</td>
+           <td>b2</td>
+           <td class="numero">c2</td>
+        </tr>
+        <tr>
+           <td>a3</td>
+           <td>b3</td>
+           <td>c3</td>
+        </tr>
+        <tr>
+           <td>a4</td>
+           <td>b4</td>
+           <td>c4</td>
+        </tr>
     </table>
 </body>
 </html>
